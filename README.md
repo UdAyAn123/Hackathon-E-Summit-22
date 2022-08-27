@@ -1,4 +1,4 @@
-# Fiverr-Clone
+# Heylos
 This is an effort to try and emulate the famous freelance online market -> FIVERR.
 
 User stories and app features as listed below:
@@ -51,16 +51,16 @@ This is an effort to try and emulate the famous freelance online market -> FIVER
 User stories and app features as listed below:
 
 ## User Stories
-* Freelancer can create new account by signin up
-* Freelancer can login to their account
-* Freelance can edit their own profile 
-* Freelance can create their own gig to sell
-* Buyer must create account to use freelancer gig service
-* Buyer can login to their account
-* Buyer can buy services by using credit card
-* Buyer can add interested service to cart 
-* Buyer can buy services by using stripe 
-* Buyer can have a chat with freelancer after they buy the service
+* Entrepreneur can create new account by signin up
+* Entrepreneur can login to their account
+* Entrepreneur can edit their own profile 
+* Entrepreneur can create their own gig to sell
+* Invester must create account to use Invester gig service
+* Invester can login to their account
+* invester can buy services by using credit card
+* Invester can add interested service to cart 
+* Invester can buy services by using stripe 
+* Invester can have a chat with Entrepreneur after they buy the service
 
 ## Features
 * Signin Form
@@ -69,7 +69,7 @@ User stories and app features as listed below:
 * Buyer Dashboard
 * Chat room
 * Service Cart
-* Freelancer service listing
+* Startup service listing
 
 ## Main technology used
 1. Handlebars
