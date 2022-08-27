@@ -42,11 +42,6 @@ User stories and app features as listed below:
 
 
 
-## Hosted 
-* Heroku
-
-# Fiverr-Clone
-This is an effort to try and emulate the famous freelance online market -> FIVERR.
 
 User stories and app features as listed below:
 
@@ -97,7 +92,6 @@ User stories and app features as listed below:
 ### Add to Cart
 <img src="https://github.com/Qhkm92/fiverr-clone-v2/blob/master/public/img/screencapture-fiver-clone-v1-ap-northeast-1-elasticbeanstalk-checkout-process_cart-2019-02-03-03_36_30.png" width=400px height="400px">
 
-## Hosted 
-* AWS Elastic Beanstalk
+
 
 
