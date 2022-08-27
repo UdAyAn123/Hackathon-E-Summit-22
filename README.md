@@ -64,7 +64,7 @@ User stories and app features as listed below:
 * Service Cart
 * Startup service listing
 
-## Main technology used
+## Main technology learned
 1. Handlebars
 2. Express
 3. MongoDB
